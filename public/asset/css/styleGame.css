@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    display: flex;
+    height: 100%;
+}
+#map {
+    background-color: yellow;
+    width: 80%;
+    height: 100%;
+
+}
+
+#chat {
+    background-color: blue;
+    width: 20%;
+    height: 100%;
+}
